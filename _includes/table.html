@@ -244,7 +244,7 @@ nil" %} {%- unless tools.size == 0 or tools == nil %} {%- if include.tag %}
         <td>
           {% if tool.biocontainers != blank %}
           <a href="https://biocontainers.pro/tools/{{tool.biocontainers}}">
-            {{tool.name}}
+            {{tool.biocontainers}}
           </a>
           {%- endif %}
         </td>

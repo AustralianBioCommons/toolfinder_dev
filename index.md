@@ -7,6 +7,8 @@ datatable: true
 
 This page lists bioinformatics tools and software that are installed across several of the [**BioCommons infrastructure partner systems**](https://support.biocommons.org.au/support/solutions/articles/6000251977-compute-systems-at-the-biocommons-partner-infrastructures). Tool / software status on other infrastructure partner systems will be added over time. Note: `NCI (if89)` in the table refers to the [Australian BioCommons Leadership Share (ABLeS) Tools and Workflows repository](https://australianbiocommons.github.io/ables/if89/), located in project allocation `if89` at the [National Computational Infrastructure (NCI)](https://nci.org.au/).
 
+{% include callout.html type="note" content="ToolFinder has undergone significant 'under the hood' changes to make your life easier.
+[Let us know how it goes!](https://forms.gle/DvRPqGWnPVNHtLLVA)" %}
 
 <div class="d-flex flex-column">
   <div class="mb-2">
